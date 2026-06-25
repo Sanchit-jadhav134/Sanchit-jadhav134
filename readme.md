@@ -9,7 +9,13 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Sanchit-jadhav134&style=for-the-badge)
+<br><br>
 
+<a href="https://dapper-daifuku-1799c8.netlify.app">
+
+<img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-Live_Now-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+
+</a>
 </div>
 
 ---
