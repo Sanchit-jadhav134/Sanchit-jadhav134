@@ -2,37 +2,65 @@
 
 # 🚀 Sanchit Jadhav
 
-### Aspiring Data Scientist • Python Developer • Problem Solver
+### Data Science Enthusiast | Python Developer | Problem Solver
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500"/>
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="700"/>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Sanchit-jadhav134&style=for-the-badge)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 B.Tech CSE Student at Parul University
-- 📊 Interested in Data Science & Machine Learning
-- 🐍 Learning Python, DSA and SQL
-- 🌐 Building Web Development Projects
-- 🚀 Looking for Internship Opportunities
+🎓 B.Tech CSE Student at Parul University
+
+📊 Interested in Data Science, Machine Learning & AI
+
+🐍 Learning Python, SQL, DSA and ML
+
+🌱 Currently building projects and preparing for internships
+
+🚀 Goal: Become a Data Scientist
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanchit-jadhav134&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanchit-jadhav134&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanchit-jadhav134&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanchit-jadhav134&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit-jadhav134&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sanchit-jadhav134&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -42,17 +70,7 @@
 
 ---
 
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit-jadhav134&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 LeetCode Stats
+# ⚡ Coding Profiles
 
 <div align="center">
 
@@ -62,35 +80,39 @@
 
 ---
 
-## 🎯 Learning Roadmap
+# 🎯 Current Goals
 
 ```text
-✅ HTML
-✅ CSS
-✅ JavaScript
+✅ Web Development
+
+✅ Python
 
 🔄 Data Structures & Algorithms
-🔄 Python
 
-🎯 SQL
+🔄 SQL
+
 🎯 Data Science
+
 🎯 Machine Learning
-🎯 Internship Preparation
+
+🎯 Internship 2027
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-- GitHub: github.com/Sanchit-jadhav134
-- LinkedIn: linkedin.com/in/sanchit-jadhav-73539435a
-- LeetCode: leetcode.com/u/Sanchit_Jadhav
+<p align="center">
+<a href="https://github.com/Sanchit-jadhav134">GitHub</a> •
+<a href="https://www.linkedin.com/in/sanchit-jadhav-73539435a/">LinkedIn</a> •
+<a href="mailto:sanchitjadhav729@gmail.com">Email</a>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="450"/>
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="500"/>
 
 ### 💙 Code • Learn • Build • Repeat
 
