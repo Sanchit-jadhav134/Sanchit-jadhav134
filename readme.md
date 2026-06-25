@@ -118,8 +118,6 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="500"/>
-
 ### 💙 Code • Learn • Build • Repeat
 
 </div>
