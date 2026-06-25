@@ -1,241 +1,97 @@
-# 🚀 Premium Portfolio Website
-
 <div align="center">
 
-# Sanchit Jadhav
+# 🚀 Sanchit Jadhav
 
-### Aspiring Data Scientist | Python Developer | Web Developer
+### Aspiring Data Scientist • Python Developer • Problem Solver
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="450">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500"/>
 
 </div>
 
 ---
 
-## 📌 About Project
+## 👨‍💻 About Me
 
-This is my personal premium portfolio website developed using HTML, CSS and JavaScript.
-
-The portfolio showcases:
-
-- 👨‍💻 About Me
-- 🛠 Skills
-- 📂 Projects
-- 📊 GitHub Analytics
-- 🏆 LeetCode Profile
-- 📧 Contact Form
-- 📄 Resume Download
-
-The website features modern UI/UX design with animations, glassmorphism effects and responsive layout.
+- 🎓 B.Tech CSE Student at Parul University
+- 📊 Interested in Data Science & Machine Learning
+- 🐍 Learning Python, DSA and SQL
+- 🌐 Building Web Development Projects
+- 🚀 Looking for Internship Opportunities
 
 ---
 
-## ✨ Features
+## 📊 GitHub Statistics
 
-### 🎨 Modern Design
+<div align="center">
 
-- Glassmorphism Cards
-- Gradient Effects
-- Smooth Animations
-- Responsive Layout
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanchit-jadhav134&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### ⚡ Interactive Elements
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanchit-jadhav134&theme=tokyonight&hide_border=true"/>
 
-- Typing Animation
-- Scroll Progress Bar
-- Hover Effects
-- Tilt Animations
-- Particles Background
-
-### 📊 Developer Profiles
-
-- GitHub Statistics
-- GitHub Contribution Graph
-- GitHub Streak Stats
-- Most Used Languages
-- LeetCode Statistics
-
-### 📞 Contact Section
-
-- Contact Form
-- Email Information
-- Social Links
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 📈 Contribution Graph
 
-| Technology | Usage |
-|------------|--------|
-| HTML5 | Structure |
-| CSS3 | Styling |
-| JavaScript | Functionality |
-| Font Awesome | Icons |
-| Typed.js | Typing Effect |
-| Particles.js | Background Animation |
-| Vanilla Tilt.js | Card Effects |
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchit-jadhav134&theme=tokyo-night"/>
+
+</div>
 
 ---
 
-## 📂 Project Structure
+## 💻 Most Used Languages
 
-```bash
-PORTFOLIO/
-│
-├── primumPortfolio.html
-├── README.md
-└── Sanchit_Resume.png
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit-jadhav134&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Sanchit_Jadhav?theme=dark&font=Nunito&ext=contest"/>
+
+</div>
+
+---
+
+## 🎯 Learning Roadmap
+
+```text
+✅ HTML
+✅ CSS
+✅ JavaScript
+
+🔄 Data Structures & Algorithms
+🔄 Python
+
+🎯 SQL
+🎯 Data Science
+🎯 Machine Learning
+🎯 Internship Preparation
 ```
 
 ---
 
-## 🖥 Portfolio Sections
+## 🌐 Connect With Me
 
-### 🏠 Home
-
-- Hero Section
-- Animated Introduction
-- Resume Download Button
-
-### 👨‍💻 About
-
-- Personal Introduction
-- Career Goals
-- Learning Journey
-
-### 🛠 Skills
-
-- Java
-- Python
-- HTML
-- CSS
-- JavaScript
-
-### 📂 Projects
-
-- Flipkart Clone
-- Portfolio Website
-- Python Projects
-
-### 📊 GitHub Analytics
-
-- GitHub Stats
-- Streak Stats
-- Top Languages
-- Contribution Graph
-
-### 🏆 LeetCode Journey
-
-- LeetCode Profile Card
-- Coding Progress
-
-### 📞 Contact
-
-- Contact Form
-- Email
-- Phone
-- Location
-
----
-
-## 🚀 How To Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/PORTFOLIO.git
-```
-
-### Open Project
-
-```bash
-cd PORTFOLIO
-```
-
-### Run
-
-Simply open:
-
-```bash
-primumPortfolio.html
-```
-
-in your browser.
-
----
-
-## 📸 Preview
-
-### Hero Section
-
-✔ Animated Typing Text
-
-✔ Resume Download Button
-
-✔ Coding GIF
-
-✔ Modern UI
-
-### Analytics Section
-
-✔ GitHub Stats
-
-✔ GitHub Streak
-
-✔ Contribution Graph
-
-✔ LeetCode Profile
-
----
-
-## 🔗 Connect With Me
-
-### GitHub
-
-https://github.com/Sanchit-jadhav134
-
-### LinkedIn
-
-https://www.linkedin.com/in/sanchit-jadhav-73539435a/
-
-### LeetCode
-
-https://leetcode.com/u/Sanchit_Jadhav/
-
----
-
-## 📧 Contact
-
-Email:
-
-sanchitjadhav729@gmail.com
-
-Phone:
-
-9209288394
-
-Location:
-
-Nashik, Maharashtra, India
-
----
-
-## ⭐ Future Improvements
-
-- Project Detail Pages
-- Dark / Light Mode
-- Visitor Counter
-- More Projects
-- Certifications Section
-- Education Timeline
-- Experience Timeline
+- GitHub: github.com/Sanchit-jadhav134
+- LinkedIn: linkedin.com/in/sanchit-jadhav-73539435a
+- LeetCode: leetcode.com/u/Sanchit_Jadhav
 
 ---
 
 <div align="center">
 
-### ⭐ If you like this project, give it a star!
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="450"/>
 
-Made with ❤️ by Sanchit Jadhav
+### 💙 Code • Learn • Build • Repeat
 
 </div>
